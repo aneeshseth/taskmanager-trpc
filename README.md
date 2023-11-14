@@ -11,6 +11,9 @@ This project is 100% Typescript.
 References:
 
 https://trpc.io/docs/server/introduction
+
 https://levelup.gitconnected.com/next-js-13-trpc-a-match-made-in-heaven-9764fadd1084
+
+https://github.com/calcom/cal.com
 
 
